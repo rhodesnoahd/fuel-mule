@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 10%;
+    font-family: montserrat;
+    height: 100vh;
+    background: #03422D;
+    
+  }
+
+h1 {
+    color: aqua;
+}
+
+form .txt_field {
+    margin: 10px 0;
+}
+
+input[type=text] {
+    padding: 0 28px;   
+}
+
+label {
+    color: white
+}
+
+input[type=submit] {
+    background-color: cyan;
+}

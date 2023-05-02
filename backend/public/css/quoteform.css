@@ -1,0 +1,43 @@
+#wrapper {
+    margin: 0 auto;
+    width: 960px;
+}
+
+body {
+    background-color: #03422D;
+    padding: 10%;
+}
+
+h1, fieldset {
+    border: 5px solid darkcyan;
+    background-color: aquamarine;
+    border-radius: 15px;
+    box-shadow: -5px -5px 3px;
+}
+
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    font: 25px/1 'Courier New', Courier, monospace;
+}
+
+p input[type="submit"] {
+    background-color: darkcyan;
+    color: rgba(0, 0, 0, 0.801);
+    border: none;
+    padding: 5px 15px;
+    font: 15px bold;
+    border-radius: 14%;
+    position: relative;
+    font-family: Arial Black;
+}
+
+img {
+    width: 20%;
+    padding-left: 41%;
+}
+
